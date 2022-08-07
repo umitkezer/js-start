@@ -3,7 +3,7 @@
 // atanma operatörü = dir. Öncelik sırasında en altlardadır. Böylece x = 2 * 2 + 1 
 // ifadesi çalıştıpıunmda önce tümişlemler yapılır ardından '=' çalıştırılarak sonuç x içerisinde tutulur. 
 
-let x = 2 * 2 + 1 ; 
+const x = 2 * 2 + 1 ; 
 
 alert(x);
 
@@ -24,8 +24,8 @@ alert(x);
 // örneğin bir işlem yaptığınız da value (değer) x in içine yazılır. 
 
 
-let k = 1;
-let w = 2; 
+const k = 1;
+const w = 2; 
 
 let z = 3 - (k = w + 1)
 
