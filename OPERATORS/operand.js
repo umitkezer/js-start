@@ -11,7 +11,7 @@ alert(x);   // -1 unary işlemi gerçekleşti.
 
 // *** eğer operatörün iki tane operand ı var ise (binary operand) denir.
 
-let y = 1, z = 3 ;
+const y = 1, z = 3 ;
 
 alert(z - y); // 2, iki sayını çıkarılması binary operand işlemidir.
 
