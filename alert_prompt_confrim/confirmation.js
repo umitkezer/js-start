@@ -8,4 +8,3 @@
 let boss = confirm("Are you boss?");
 
 alert(boss); //eğer ok a basıldıysa true cancel a basıldaysa false çıkar
-
