@@ -3,7 +3,7 @@
 }   // heloo 'boş karakter olmayan her değer treu olur. 
 
 
-let value =0 ;
+let value =0  ;
 
 if ( value > 0 ){
     console.log(1)  
