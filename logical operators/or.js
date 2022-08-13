@@ -17,7 +17,7 @@ sayı olan 1 true,0 ise false demektir.
 */
 
 if (1 || 0) {
-  console.log("Treu");
+  console.log("True");
 }
 
 const hour1 = 9;
@@ -97,3 +97,6 @@ let x ;
 false || (x = 1 );
 
 console.log(x); // 1 
+
+
+
