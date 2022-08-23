@@ -20,8 +20,8 @@ let total = 0 ;
 
 for(let a = 0 ; a < 10 ; a++){
     total += a;
+    console.log(total);
 }
-console.log(total);
 
 
 
@@ -41,14 +41,14 @@ console.log(total);
 
 
 
-kod bloklarınınj içine yazdığımızda ,
+kod bloklarının içine yazdığımızda ,
 let total = 0 ;
 
 for(let a = 0 ; a < 10 ; a++){
     total += a;
     console.log(total);
 }
-
+ consolelog her 0 ile 10 kadar ki değerlierin toplamını verecektir  0 1 3 6 10 15 21 28 26 45
 
 */
 

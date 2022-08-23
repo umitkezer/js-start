@@ -33,3 +33,18 @@ sadece karşılatırma değil bir ifade veya değişken koşul olabilir
 ehile döngüsü tarafından alınan tüm ifadeler boolean a dönüştürülür 
 örn;
 while (i !=0) while i de olabilir.*/
+
+
+
+let a =3 ;
+while(a ){ //   a değeri 0 olduğunda sonuç false olur ve dögü biter 
+  console.log(a); //  3 2 1 
+  a--;
+}
+
+
+
+/// !!!!!! eğer tek satır gövde vafsa süslü parantez kullanmaya gerek kalmaz 
+
+let x =4 ;
+while(a) console.log(a--);
