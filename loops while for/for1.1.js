@@ -31,6 +31,8 @@ Genel döngü algoritması aşağıdaki gibidir:
 → (if koşul → gövdeyi çalıştır ve adımı çalıştır.)
 → ...
 
+
+
 // for (let i = 0; i < 3; i++) alert(i)
 
 // Çalışmaya başla
